@@ -1,1 +1,1 @@
-console.log('hello from JS');
+console.log('hello from CI test');
